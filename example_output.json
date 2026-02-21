@@ -1,0 +1,90 @@
+{
+  "summary": {
+    "total_principal": 10000,
+    "total_interest": 533.53,
+    "total_repayment": 10884.89,
+    "months_to_pay_off": 10
+  },
+  "amortization_schedule": [
+    {
+      "month": 1,
+      "opening_balance": "10000.00",
+      "principal_paid": "788.49",
+      "interest_paid": "100.00",
+      "extra_payment": "0.00",
+      "closing_balance": "9211.51"
+    },
+    {
+      "month": 2,
+      "opening_balance": "9211.51",
+      "principal_paid": "796.37",
+      "interest_paid": "92.12",
+      "extra_payment": "0.00",
+      "closing_balance": "8415.14"
+    },
+    {
+      "month": 3,
+      "opening_balance": "8415.14",
+      "principal_paid": "804.34",
+      "interest_paid": "84.15",
+      "extra_payment": "0.00",
+      "closing_balance": "7610.80"
+    },
+    {
+      "month": 4,
+      "opening_balance": "7610.80",
+      "principal_paid": "812.38",
+      "interest_paid": "76.11",
+      "extra_payment": "0.00",
+      "closing_balance": "6798.42"
+    },
+    {
+      "month": 5,
+      "opening_balance": "6798.42",
+      "principal_paid": "820.50",
+      "interest_paid": "67.98",
+      "extra_payment": "2000.00",
+      "closing_balance": "3977.92"
+    },
+    {
+      "month": 6,
+      "opening_balance": "3977.92",
+      "principal_paid": "848.71",
+      "interest_paid": "39.78",
+      "extra_payment": "0.00",
+      "closing_balance": "3129.21"
+    },
+    {
+      "month": 7,
+      "opening_balance": "3129.21",
+      "principal_paid": "857.20",
+      "interest_paid": "31.29",
+      "extra_payment": "0.00",
+      "closing_balance": "2272.01"
+    },
+    {
+      "month": 8,
+      "opening_balance": "2272.01",
+      "principal_paid": "865.77",
+      "interest_paid": "22.72",
+      "extra_payment": "0.00",
+      "closing_balance": "1406.25"
+    },
+    {
+      "month": 9,
+      "opening_balance": "1406.25",
+      "principal_paid": "874.43",
+      "interest_paid": "14.06",
+      "extra_payment": "0.00",
+      "closing_balance": "531.82"
+    },
+    {
+      "month": 10,
+      "opening_balance": "531.82",
+      "principal_paid": "883.17",
+      "interest_paid": "5.32",
+      "extra_payment": "0.00",
+      "closing_balance": "0.00"
+    }
+  ]
+}
