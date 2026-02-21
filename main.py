@@ -93,3 +93,7 @@ def simulate(data: LoanRequest):
         },
         "schedule": schedule
     }
+@app.get("/")
+def health_check():
+    # Simple endpoint to verify the service is running
+    return {"status": "Simulator is online", "version": "1.0.0"}
