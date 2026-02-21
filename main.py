@@ -1,3 +1,4 @@
+# Mifos Intelligent Loan Simulator
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from decimal import Decimal, ROUND_HALF_UP
